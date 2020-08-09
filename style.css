@@ -39,6 +39,9 @@
   vertical-align:top;
   font-size: 18px;
 }
+.col-xs-12 .col-md-12{
+	min-height:200px;
+}
 ul.news li:hover i {
   color: #0288D1;
   text-decoration: none;
